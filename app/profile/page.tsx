@@ -42,7 +42,7 @@ export default function ProfileSettings() {
     phone: "+1 (555) 123-4567",
     location: "San Francisco, CA",
     bio: "Software Engineer with 5 years of experience in full-stack development. Passionate about creating user-friendly applications and learning new technologies.",
-    avatar: "/professional-woman-software-engineer.png",
+    avatar: "/professional-woman-software-engineer.jpg",
     joinDate: "March 2024",
   })
 

@@ -1,0 +1,2 @@
+// Place your AI interviewer avatar image here and name it exactly 'ai-interviewer-avatar.png'.
+// Example: Download or export your avatar image and save it in this folder with the correct name.
